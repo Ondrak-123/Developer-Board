@@ -1,2 +1,1 @@
-#READ FIRST#
-_Make sure_
+**Make sure to use the correct file when ordering JLCPCB/PCBWAY assembly service.**
