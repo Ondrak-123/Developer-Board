@@ -1,4 +1,6 @@
 # RP2040 Developer Board
+This project was great for learning something about the RP2040 ecosystem, great thing about this dev board is 16MB FLASH and 30 GPIOS.
+You can use this developer board in breadboards, custom builds and any other way you can think of!
 
 _**Featuring:**_
  
